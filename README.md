@@ -1,3 +1,3 @@
 # Weather-app
 
-https://borissarovic.github.io/Weather-app/
+http://borissarovic.github.io/Weather-app/
