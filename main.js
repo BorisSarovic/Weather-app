@@ -1,7 +1,7 @@
 $('button').on('click',function () {
   var city = $('input').val();
   $.ajax({
-    url : 'http://api.openweathermap.org/data/2.5/weather?q='+ city +'&units=metric&APPID=4107107b714e7fcf4f10d5b924aa5292',
+    url : 'https://api.openweathermap.org/data/2.5/weather?q='+ city +'&units=metric&APPID=4107107b714e7fcf4f10d5b924aa5292',
     dataType : 'json'
   })
   .done(function (res) {
