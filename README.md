@@ -2,4 +2,4 @@
 
 https://borissarovic.github.io/Weather-app/
 
-Technologies: HTML, CSS, Bootstrap, JavaScript, Ajax.
+Technologies: HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax.
